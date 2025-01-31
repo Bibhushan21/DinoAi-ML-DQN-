@@ -60,7 +60,7 @@ Ensure you have Python installed. You'll also need to install the necessary libr
 - **High Scores**: After training, the AI can achieve high scores by accurately jumping or ducking under obstacles at the right time.
 
 🧑‍💻 Authors
-- Bibhushan Subedi – @bibhushan-subedi
+- Bibhushan Subedi – @bibhushan_subedi
 
 🤝 Acknowledgements
 - OpenAI Gym
